@@ -2,5 +2,7 @@
 
 In this notebook, I've conducted a comparative case study to examine the two most common approaches to global explanation: accumulated local effects and partial dependence and two local explanation strategies SHAP Waterfall Plots and Breakdown Interaction Plots. These methods each provide distinctive insights that are essential to comprehending our models.
 
-![](https://github.com/singhvarsha0808/Comparative_Study_of_XAI_Techniques/key_model_output.GIF)
+![](https://github.com/singhvarsha0808/Comparative_Study_of_XAI_Techniques/key_model_output.gif)
+
+
 
