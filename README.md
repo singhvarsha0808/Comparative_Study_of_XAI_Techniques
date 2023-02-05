@@ -15,13 +15,13 @@
 
 In this [notebook](https://nbviewer.org/github/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.ipynb#About-the-Dataset), a comparative case study has been conducted to examine the two most common approaches to global explanation:
 
-- Accumulated local effects
-- Partial dependence
+- [Accumulated local effects](https://arxiv.org/abs/1612.08468)
+- [Partial dependence](https://christophm.github.io/interpretable-ml-book/pdp.html)
 
 and two local explanation strategies:
 
-- SHAP Waterfall Plots
-- Breakdown Interaction Plots
+- [SHAP Waterfall Plots](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/waterfall.html)
+- [Breakdown Interaction Plots](https://ema.drwhy.ai/iBreakDown.html)
 
 These methods each provide distinctive insights that are essential to comprehending our models.
 
@@ -55,7 +55,7 @@ Attributes
 
 - The dataset is in the datasets directory
 - The jupyter notebook used is the [XAI.ipynb](https://nbviewer.org/github/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.ipynb#About-the-Dataset)
-- Python utils.py file has all the functions used in notebook.
+- Python [utils.py](https://github.com/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/utils.py) file has all the functions used in notebook.
 - HTML version of the notebook [here](https://github.com/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.html). 
 - Configuration: requirement.txt
 
