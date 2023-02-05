@@ -13,7 +13,7 @@
 
 ## About <a name = "about"></a>
 
-In this [notebook](), a comparative case study has been conducted to examine the two most common approaches to global explanation:
+In this [notebook](https://nbviewer.org/github/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.ipynb#About-the-Dataset), a comparative case study has been conducted to examine the two most common approaches to global explanation:
 
 - Accumulated local effects
 - Partial dependence
@@ -27,7 +27,7 @@ These methods each provide distinctive insights that are essential to comprehend
 
 ### Documentation notebook <a name = "docnote"></a>
 This notebook comprehensively demonstrate the idea detailing each aspect. 
-- [`XAI_Comparative_Study`]()
+- [`XAI_Comparative_Study`](https://github.com/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.ipynb)
 
 ### About The Dataset <a name = "datasetinfo"></a>
 
@@ -54,10 +54,10 @@ Attributes
 ### Code Locations <a name = "codeloc"></a>
 
 - The dataset is in the datasets directory
-- The jupyter notebook used is the [XAI.ipynb](XAI.ipynb)
+- The jupyter notebook used is the [XAI.ipynb](https://nbviewer.org/github/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.ipynb#About-the-Dataset)
 - Python utils.py file has all the functions used in notebook.
-- HTML version of the notebook [here](). 
-- Configuration: [requirement.txt]()
+- HTML version of the notebook [here](https://github.com/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.html). 
+- Configuration: requirement.txt
 
 ### Configuration <a name = "configuration"></a>
 
@@ -72,4 +72,4 @@ Install the relevant packages using the following command: pip install -r requir
 
 ### Running Jupyter <a name = "jupyter"></a>
 
-Run `jupyter notebook` and open the [XAI.ipynb](XAI.ipynb) file.
+Run `jupyter notebook` and open the [XAI.ipynb](https://github.com/singhvarsha0808/Comparative_Study_of_XAI_Techniques/blob/main/XAI.ipynb) file.
